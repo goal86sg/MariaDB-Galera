@@ -1,9 +1,6 @@
 version: '3.7'
 
 services:
-  #web:
-  
-  mariadb:
     node1:
         image: hauptmedia/mariadb:10.1
         hostname: node1
